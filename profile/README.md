@@ -20,3 +20,7 @@ Fica atento!
 🔗 [Website oficial](https://app-navega.eu)  
 📰 [Blog](https://blog.app-navega.eu)  
 📱 [App Navega](https://web.app-navega.eu)
+
+---
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/L4L81EVZ0J)
